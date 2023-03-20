@@ -9,6 +9,5 @@ public class BaseTest {
         Configuration.browserSize = "1920x1080";
         Configuration.baseUrl = "https://gaskar.group";
         Configuration.screenshots = false;
-        Configuration.holdBrowserOpen = true;
     }
 }
